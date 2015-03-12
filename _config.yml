@@ -1,6 +1,8 @@
 username: elevendao
 baseurl: /blog
-markdown: redcarpet
+#markdown: redcarpet
+markdown: kramdown
 safe: false
-pygments: true
+highlighter: pygments
+#pygments: true
 title: 飞鸟集
